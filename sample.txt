@@ -9,10 +9,10 @@ Added to commit to local repo
 
 ##LIne3
 
-
+Addded for Staging/Index
 
 ##Line4
 
-
+Added for workspace
 
 ##Line5
