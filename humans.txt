@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kiran -- Admin -- AutomaticMerge
 
 # THANKS
 
