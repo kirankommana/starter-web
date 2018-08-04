@@ -19,6 +19,10 @@ Added for workspace
 
 Sample edit
 
+<<<<<<< HEAD
 Hello World
 
 For Tag Comparing
+=======
+Hello World
+>>>>>>> f698c350531d6e071c95bc267332eae31372e825
